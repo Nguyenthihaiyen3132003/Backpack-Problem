@@ -1,0 +1,36 @@
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\obj\Debug\NienLuan1.csproj.AssemblyReference.cache
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\obj\Debug\NienLuan1.Thedovat.resources
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\obj\Debug\NienLuan1.Properties.Resources.resources
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\obj\Debug\NienLuan1.csproj.GenerateResource.cache
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\obj\Debug\NienLuan1.csproj.CoreCompileInputs.cache
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\bin\Debug\NienLuan1.exe.config
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\bin\Debug\NienLuan1.exe
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\bin\Debug\NienLuan1.pdb
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\obj\Debug\NienLuan1.exe
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\obj\Debug\NienLuan1.pdb
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\obj\Debug\NienLuan1.BangKQ.resources
+D:\nguyenthihaiyen\NienLuan1\NienLuan1\obj\Debug\NienLuan1.Form1.resources
+D:\NienLuan1\NienLuan1\obj\Debug\NienLuan1.csproj.AssemblyReference.cache
+D:\NienLuan1\NienLuan1\obj\Debug\NienLuan1.BangKQ.resources
+D:\NienLuan1\NienLuan1\obj\Debug\NienLuan1.Form1.resources
+D:\NienLuan1\NienLuan1\obj\Debug\NienLuan1.Thedovat.resources
+D:\NienLuan1\NienLuan1\obj\Debug\NienLuan1.Properties.Resources.resources
+D:\NienLuan1\NienLuan1\obj\Debug\NienLuan1.csproj.GenerateResource.cache
+D:\NienLuan1\NienLuan1\obj\Debug\NienLuan1.csproj.CoreCompileInputs.cache
+D:\NienLuan1\NienLuan1\obj\Debug\NienLuan1.exe
+D:\NienLuan1\NienLuan1\obj\Debug\NienLuan1.pdb
+D:\NienLuan1\NienLuan1\bin\Debug\NienLuan1.exe.config
+D:\NienLuan1\NienLuan1\bin\Debug\NienLuan1.exe
+D:\NienLuan1\NienLuan1\bin\Debug\NienLuan1.pdb
+E:\Dự án\Bài toán Balo\NienLuan1\bin\Debug\NienLuan1.exe.config
+E:\Dự án\Bài toán Balo\NienLuan1\bin\Debug\NienLuan1.exe
+E:\Dự án\Bài toán Balo\NienLuan1\bin\Debug\NienLuan1.pdb
+E:\Dự án\Bài toán Balo\NienLuan1\obj\Debug\NienLuan1.csproj.AssemblyReference.cache
+E:\Dự án\Bài toán Balo\NienLuan1\obj\Debug\NienLuan1.BangKQ.resources
+E:\Dự án\Bài toán Balo\NienLuan1\obj\Debug\NienLuan1.Form1.resources
+E:\Dự án\Bài toán Balo\NienLuan1\obj\Debug\NienLuan1.Thedovat.resources
+E:\Dự án\Bài toán Balo\NienLuan1\obj\Debug\NienLuan1.Properties.Resources.resources
+E:\Dự án\Bài toán Balo\NienLuan1\obj\Debug\NienLuan1.csproj.GenerateResource.cache
+E:\Dự án\Bài toán Balo\NienLuan1\obj\Debug\NienLuan1.csproj.CoreCompileInputs.cache
+E:\Dự án\Bài toán Balo\NienLuan1\obj\Debug\NienLuan1.exe
+E:\Dự án\Bài toán Balo\NienLuan1\obj\Debug\NienLuan1.pdb
